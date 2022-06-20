@@ -11,8 +11,7 @@
 
 ### All elements adapt to the height
 ![Adapt image on Height Size](https://raw.githubusercontent.com/SoftJavascript/exploreCostaRica/main/readme_picture/3.png)
-![All elements adapt to the size of the screen!](https://raw.githubusercontent.com/SoftJavascript/exploreCostaRica/main/
-readme_picture/4.png)
+![All elements adapt to the size of the screen!](https://raw.githubusercontent.com/SoftJavascript/exploreCostaRica/main/readme_picture/4.png)
 
 
 ### All elements adapt to small screens
